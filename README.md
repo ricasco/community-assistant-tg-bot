@@ -78,7 +78,7 @@ The skills and methodologies demonstrated in this project are not only applicabl
 - `functions_panel.py`: Manages the administrative panel for dynamic configuration of the bot's behavior.
 
 ## Author
-- [Ricasco](https://github.com/ricasco) - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Ricasco](https://github.com/ricasco) - Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/riccardo-cascone-440085320/))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
